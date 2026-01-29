@@ -1,2 +1,6 @@
-# Git Practice
-A simple project to practice a few git/github workflows.  Replace the contents of this file with the contents indicated in the [instructions](./instructions.md).
+# Reflection on “Four Ways to Make CS & IT Curricula More Immersive”
+**Author:** Thomas A. Limoncelli  
+[**Link:**](https://queue.acm.org/detail.cfm?id=3130216)  
+
+
+In his 2017 blog post, “Four Ways to Make CS & IT Curricula More Immersive”, Tom Limoncelli issues a compelling call to action for universities, a call that remains relevant till today. He emphasized that only a minority of developers are using best practices for IT and software, while the “middle of the bell curve” or below do not adhere to the same standards, which subsequently leads to inefficient workflows and weaker performance. Reading this article prompts me to self-reflect on my own path as a CS student. Have I actively sought the skills needed to prepare for my future professional career, or am I relying on the bulk of my time studying in the curriculum? If I had waited for the onboard period to learn, it would have been too late. His practical advice on familiarizing oneself with CI/CD or Git, or reverse-engineering on a working system, offers a top-down approach that complements the academic theories offered in school. Adopting these practices now is how I can build professional discipline alongside theoretical knowledge. Overall, this article is a reminder on my own realities as a student, and how sometimes, the responsibility for immersive, career-ready learning often falls on the student.
